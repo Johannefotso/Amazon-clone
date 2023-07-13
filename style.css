@@ -16,7 +16,7 @@
 }
 
 .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("img/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -86,3 +86,14 @@
     border-bottom-right-radius: 4px;
     color: #0f1111;
 }
+
+/* Box4 */
+span {
+    font-size: 0.7rem;
+}
+
+.nav-second {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
