@@ -32,7 +32,6 @@
 }
 
 /* box2 */
-
 .add-first {
     color: #cccccc;
     font-size: 0.85rem;
@@ -136,4 +135,12 @@ span {
 .panel-deals{
     font-size: 0.9rem;
     font-weight: 700;
+}
+
+/* hero section */
+.hero-section {
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height: 600px;
+
 }
