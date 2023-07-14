@@ -87,6 +87,11 @@
     color: #0f1111;
 }
 
+.nav-search:hover {
+    border: 2px solid orange;
+
+}
+
 /* Box4 */
 span {
     font-size: 0.7rem;
@@ -97,3 +102,12 @@ span {
     font-weight: 700;
 }
 
+/* Box5 */
+.nav-cart i {
+    font-size: 35px;
+
+}
+
+.nav-cart {
+    font-size: 0.85px;
+}
